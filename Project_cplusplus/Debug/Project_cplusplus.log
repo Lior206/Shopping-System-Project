@@ -1,0 +1,31 @@
+﻿  address.cpp
+  buyer.cpp
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\buyer.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\buyer.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\buyer.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\buyer.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  date.cpp
+  feedback.cpp
+  form.cpp
+  main.cpp
+  order.cpp
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\order.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\order.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  product.cpp
+  seller.cpp
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\seller.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\seller.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  sellerbuyer.cpp
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\sellerbuyer.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\sellerbuyer.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\sellerbuyer.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  system.cpp
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\system.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\system.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\system.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\system.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\itc\desktop\lior\c++ projects\project_cplusplus\project_cplusplus\system.cpp(266): warning C4018: '<': signed/unsigned mismatch
+  user.cpp
+  validate.cpp
+  Generating Code...
+  Project_cplusplus.vcxproj -> C:\Users\ITC\Desktop\Lior\C++ Projects\Project_cplusplus\Debug\Project_cplusplus.exe

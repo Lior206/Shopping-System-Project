@@ -1,0 +1,6 @@
+Issues Known –
+1. Code duplication (Buyer, Seller).
+2. We did not block the option that a buyer would buy the same product twice from a seller and on the same order
+4. Code efficiency in function that related to copy objects (Order, Product, Seller, Buyer, Feedback).
+5. Using checking function more than one time with Validate class for same input.
+6. We didn't use iterators 
